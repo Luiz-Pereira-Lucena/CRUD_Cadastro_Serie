@@ -1,0 +1,16 @@
+C:\Users\Luiz Pereira\source\repos\CRUDCadatro\bin\Debug\net5.0\CRUDCadatro.exe
+C:\Users\Luiz Pereira\source\repos\CRUDCadatro\bin\Debug\net5.0\CRUDCadatro.deps.json
+C:\Users\Luiz Pereira\source\repos\CRUDCadatro\bin\Debug\net5.0\CRUDCadatro.runtimeconfig.json
+C:\Users\Luiz Pereira\source\repos\CRUDCadatro\bin\Debug\net5.0\CRUDCadatro.runtimeconfig.dev.json
+C:\Users\Luiz Pereira\source\repos\CRUDCadatro\bin\Debug\net5.0\CRUDCadatro.dll
+C:\Users\Luiz Pereira\source\repos\CRUDCadatro\bin\Debug\net5.0\ref\CRUDCadatro.dll
+C:\Users\Luiz Pereira\source\repos\CRUDCadatro\bin\Debug\net5.0\CRUDCadatro.pdb
+C:\Users\Luiz Pereira\source\repos\CRUDCadatro\obj\Debug\net5.0\CRUDCadatro.csproj.AssemblyReference.cache
+C:\Users\Luiz Pereira\source\repos\CRUDCadatro\obj\Debug\net5.0\CRUDCadatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Pereira\source\repos\CRUDCadatro\obj\Debug\net5.0\CRUDCadatro.AssemblyInfoInputs.cache
+C:\Users\Luiz Pereira\source\repos\CRUDCadatro\obj\Debug\net5.0\CRUDCadatro.AssemblyInfo.cs
+C:\Users\Luiz Pereira\source\repos\CRUDCadatro\obj\Debug\net5.0\CRUDCadatro.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Pereira\source\repos\CRUDCadatro\obj\Debug\net5.0\CRUDCadatro.dll
+C:\Users\Luiz Pereira\source\repos\CRUDCadatro\obj\Debug\net5.0\ref\CRUDCadatro.dll
+C:\Users\Luiz Pereira\source\repos\CRUDCadatro\obj\Debug\net5.0\CRUDCadatro.pdb
+C:\Users\Luiz Pereira\source\repos\CRUDCadatro\obj\Debug\net5.0\CRUDCadatro.genruntimeconfig.cache
